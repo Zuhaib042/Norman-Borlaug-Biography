@@ -46,6 +46,10 @@
   padding-top: 15px;
 }
 
+#tribute-info {
+  width: 65%;
+}
+
 #tribute-info h5 {
   padding: 3rem;
   font-size: 1.3rem;
