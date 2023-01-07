@@ -79,10 +79,6 @@
   padding: 35px 0 10px 0;
 }
 
-.quote a {
-  text-decoration: none;
-}
-
 .quote a:hover {
   color: rgb(0, 0, 255);
 }
